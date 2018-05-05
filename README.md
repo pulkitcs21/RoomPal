@@ -17,4 +17,7 @@ RoomPal is an application where students can meet different people from differen
 ## Project Goals
  To help students find compatible roommate for their apartment/dorm.
  
- 
+## Authors
+ * Pulkit Agarwal
+ * Pavan Sabins
+ * Aramis Knox
