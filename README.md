@@ -13,11 +13,15 @@ This can be frustrating for people who have never lived with someone before or h
 Solution?
 RoomPal is an application where students can meet different people from different area's based on their personality and preferences.
 
+
 ---
 ## Project Goals
  To help students find compatible roommate for their apartment/dorm.
+ 
+ Next step would be to allow everyone to use this application.
  
 ## Authors
  * Pulkit Agarwal
  * Pavan Sabins
  * Aramis Knox
+ 
